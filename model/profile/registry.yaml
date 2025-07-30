@@ -118,7 +118,7 @@ groups:
         examples: ['is_folded']
         type:
           members:
-            - id: has_functions
+            - id: is_folded
               brief: >
                 Provides an indication that multiple symbols map to this location's
                 address, for example due to identical code folding by the linker. In
